@@ -1,6 +1,6 @@
 {
-    "name": "Genius-Userbot",
-    "logo": "https://te.legra.ph/file/ceee32999a8250a1f7ebb.png",
+    "name": "jaat-Userbot",
+    "logo": "https://telegra.ph/file/ae4bd45313bf05bb7ab02.jpg",
     "description": "Genius-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
     "keywords": [
         "userbot",
@@ -8,7 +8,7 @@
         "videobot",
         "telegram"
     ],
-    "repository": "https://github.com/AdityaHalder/Genius-Userbot",
+    "repository": "6650398956",
     "stack": "container",
     "env": {
         "API_ID": {
